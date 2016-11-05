@@ -23,4 +23,4 @@ public class WriteToFile
 		}
 	}
 }
-// Login and connectivity data captured.
+// Login and connectivity data were captured.
