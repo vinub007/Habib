@@ -23,4 +23,8 @@ public class WriteToFile
 		}
 	}
 }
+<<<<<<< HEAD
 // Login and connectivity data was captured.
+=======
+// Login and connectivity data were captured.
+>>>>>>> 370ed59e318e72c909e35d99f029b6c066e22676
