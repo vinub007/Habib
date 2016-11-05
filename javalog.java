@@ -9,7 +9,7 @@ import java.util.Random;
 public class WriteToFile
 {	public static void main(String[] args)
 	{	try
-		{	PrintStream writer = new PrintStream( new File("randInts_login.txt"));
+		{	PrintStream writer = new PrintStream( new File("randInts.txt"));
 			Random r = new Random();
 			final int LIMIT = 100;
 
@@ -23,4 +23,4 @@ public class WriteToFile
 		}
 	}
 }
-// Login data captured.
+// Login and connectivity data captured.
