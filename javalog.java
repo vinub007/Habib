@@ -28,3 +28,5 @@ public class WriteToFile
 =======
 // Login and connectivity data were captured.
 >>>>>>> 370ed59e318e72c909e35d99f029b6c066e22676
+Test changes
+Test line 2
